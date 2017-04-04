@@ -1,5 +1,4 @@
 # Web Dev 101: Introduction to web development.
----
 This course is the initial phase of a profound understanding of web
 technologies and the unlimited exploration thereof. With several years
 of experience, I still find myself wondering about the vast plains of
@@ -31,7 +30,7 @@ but I encourage you to keep going.
   - HTML
   - CSS
 
-**NOTE: My experience with computers in regards to web development and design
+*NOTE: My experience with computers in regards to web development and design
 has been incubated on the Mac OS ecosystem. However, I grew up on windows
 and the OS still runs somewhere in my cognitive circuitry. Please bare with me as I
 try to foster a learning environments that works for both types of users.
