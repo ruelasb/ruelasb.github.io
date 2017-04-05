@@ -5,21 +5,21 @@ of experience, I still find myself wondering about the vast plains of
 old, new and upcoming code and their capabilities. My goal is not to teach
 you every piece of technology out there but to help you become acquainted 
 with the terrain; sharing with you the tools and skills that have helped 
-me journey into the unknown. A modern day Lewis and Clark exploration--you won't know 
+me journey into the unknown. A modern day Lewis and Clark exploration--you don't know 
 what lies ahead but you will have the tools and skills to succeed.
 
 My name is Bryant Ruelas and welcome to Web Dev 101. I hope you enjoy this
 course and find the passion, love, and excitement that I have found since 
 my introduction to the web. The style of teaching I will implement will shift 
-away and into a different direction than the typical, "I teach you read." 
+away from the typical, "I teach you read" to a "let's build something" kind of style. 
 
 Because you can easily find book knowledge and literature on any given 
 code--pretty much anywhere--we will take more of a "hands-on" approach 
 and make something a little more tangible. Still, I encourage you to pick 
 up a book, read an article or watch online tutorials for your general knowledge.
 We will create user interfaces to edify your understanding of the web 
-in practical real-world examples. Some portions of the lesson may be confusing 
-but I encourage you to keep going. 
+in practical real-world examples. If some portions of the lesson become difficult 
+or confusing, I encourage you to keep going. 
 
 #### In this course:
 
