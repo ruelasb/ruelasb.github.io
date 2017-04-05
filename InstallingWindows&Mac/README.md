@@ -52,12 +52,15 @@ To install Git with the CLI enter `choco install git.install -y`. The -y is just
 After you've downloaded software you must restart the Command Prompt. Close the CLI and re-open it as an **Administrator**.
 
 To make sure it worked enter `git --version` and you should see the following(probably with a more recent version).
+
 ![alt text](https://cldup.com/qnaso7P-tZ.PNG)
 
 ### Mac
 Open the default CLI called Terminal.
 *Your Terminal will not look exactly like mine and the path may be different but don't worry. You're doing fine!
+
 ![alt text](https://cldup.com/kuQOnpphqe.png)
+
 Quick commands that you may find helpful:
  - Clear the screen
     ```
@@ -95,6 +98,7 @@ To install Git with the CLI enter `brew install git`.
 
 After you have downloaded software you may need to restart the Terminal. Close the CLI and re-open it.
 To make sure it worked enter `git --version` and you should see the following(probably with a more recent version).
+
 ![alt text](https://cldup.com/OCjbbRcif0.png)
 
 ---
