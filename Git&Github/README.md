@@ -35,7 +35,7 @@ Lastly, if you come back again to make further changes:
    
 Enough reading. Let's get started.
 
-[Installing: Windows/Mac](../installingWindows&Mac)
+[Installing: Windows/Mac](../InstallingWindows&Mac)
 
 [gitImg1]: https://git-scm.com/book/en/v2/images/local.png
 [gitImg2]: https://git-scm.com/book/en/v2/images/centralized.png
