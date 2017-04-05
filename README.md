@@ -32,7 +32,7 @@ or confusing, I encourage you to keep going.
 
 *Note: My experience with computers in regards to web development and design
 has been incubated on the Mac OS ecosystem. However, I grew up on windows
-and the OS still runs somewhere in my cognitive circuitry. Please bare with me as I
+and the OS still runs somewhere in my cognitive circuitry. Please bear with me as I
 try to foster a learning environments that works for both types of users.*
 
 
