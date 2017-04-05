@@ -13,7 +13,9 @@ So lets begin :)
 Open the default CLI as an administrator--Windows calls it Command Prompt. 
 Make sure you right click and **run as administrator**.
 \**Your current path does NOT have to look exactly like the image below C:WINDOWS\system32 it could be C:WHATEVER\YOU\WANT*
+
 ![alt text](https://cldup.com/mqr22_MuZm.PNG)
+
 Quick commands that you may find helpful:
  - Clear the screen
     ```
