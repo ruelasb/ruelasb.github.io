@@ -4,9 +4,9 @@ technologies and the unlimited exploration thereof. With several years
 of experience, I still find myself wondering about the vast plains of
 old, new and upcoming code and their capabilities. My goal is not to teach
 you every piece of technology out there but to help you become acquainted 
-with the terrain and to share with you the tools and skills that have helped 
-me journey into the unknown. A modern day Lewis and Clark exploration
---you won't know what lies ahead but you will have the tools and skills to succeed.
+with the terrain; sharing with you the tools and skills that have helped 
+me journey into the unknown. A modern day Lewis and Clark exploration--you won't know 
+what lies ahead but you will have the tools and skills to succeed.
 
 My name is Bryant Ruelas and welcome to Web Dev 101. I hope you enjoy this
 course and find the passion, love, and excitement that I have found since 
@@ -24,11 +24,11 @@ but I encourage you to keep going.
 #### In this course:
 
 - Git & Github
-  - Installing: Windows/Mac
-  - Git and Github: Setup
+  - Installing Software: Windows/Mac.
+  - Making a repository.
 - Creating a Website
-  - HTML
-  - CSS
+  - HTML.
+  - CSS.
 
 *Note: My experience with computers in regards to web development and design
 has been incubated on the Mac OS ecosystem. However, I grew up on windows
