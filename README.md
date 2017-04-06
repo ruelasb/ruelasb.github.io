@@ -38,5 +38,5 @@ try to foster a learning environments that works for both types of users.*
 
 ---
 
-[Next: Git & Github](./Git&Github/)
+[Next: Git & Github](./WD101.1-InitialSetup/Git&Github.md)
 
