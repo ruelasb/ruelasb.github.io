@@ -26,7 +26,7 @@ or confusing, I encourage you to keep going.
 - WD101.1-InitialSetup
   - Quick Overview: Git and Github.
   - Installing Software: Windows/Mac
- 	- Simple Repository
+  - Simple Repository
 - Creating a Website
   - HTML.
   - CSS.
