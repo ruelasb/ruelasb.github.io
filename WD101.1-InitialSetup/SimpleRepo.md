@@ -18,19 +18,24 @@ In this section we are going to:
     ```
     *If it's not already inside, place `firstGit.html` inside the `firstRepo` directory.*
 2. Open your CLI (Command Promp[Windows]/Terminal[Mac]) and make sure the path points to the firstRepo directory.
+
     **Windows** 
+
     Location: C:\Users\yourUserNameHere\Desktop\firstRepo
+
     Example: 
     ```
     C:\Users\Bryant Ruelas\Desktop\firstRepo>
     ```
     **Macintosh** 
+
     Location: /Users/yourUserNameHere/Desktop/firstRepo
+
     Example:
     ```
     firstRepo 🚀  bruest >
     ```
-    2.5. I just realized we should probably download a nicer text editor than Notpad or textEdit. Go ahead and install **Sublime Text 3** via Chocolatey! `choco install sublimetext3 -y`. Aren't you glad we can install software way faster! and if you enter `choco list` you will be able to track all the software you've installed. *\*There isn't a simple way to effectively uninstall software natively with choco but if the package allows sometimes you can uninstall via `choco uninstall nameOfSoftware` but I recomend you read up on it beforehand.*
+2.5. I just realized we should probably download a nicer text editor than Notpad or textEdit. Go ahead and install **Sublime Text 3** via Chocolatey! `choco install sublimetext3 -y`. Aren't you glad we can install software way faster!? and if you enter `choco list` you will be able to track all the software you've installed. *\*There isn't a simple way to effectively uninstall software natively with choco but if the package allows, sometimes you can uninstall via `choco uninstall nameOfSoftware` but I highly recommend you read up on it beforehand.*
     
 3. Supposing that the CLI is now pointing to `firstRepo` and we have Sublime Text 3 installed, we should be ready to go.
 
@@ -43,7 +48,7 @@ I suggest that you mirror your setup like the one below because I want you to se
 Ok let's make some magic!
 
 1. Input into the CLI `git init` and you will notice a new `.git` directory appear in your `firstRepo` folder. 
-    - Notice the result you get when entering in `git status` and `git log`. 
+    - Notice the results you get when entering in `git status` and `git log`. 
         - git status should return: 
             ```
             Untracked Files:
