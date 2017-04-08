@@ -109,5 +109,5 @@ To make sure it worked enter `git --version` and you should see the following(pr
 ![alt text](https://cldup.com/OCjbbRcif0.png)
 
 ---
-[Next: Making a Repository](../WD101.2-MakingARepo/SimpleRepo.md)
+[Next: Making a Repository](./SimpleRepo.md)
 
