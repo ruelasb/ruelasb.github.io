@@ -44,9 +44,9 @@ A package manager (PM) is an awesome tool to download and manage software with e
 The cmd.exe command you will paste will look similar to the one below. Please do not copy and paste the sample below. 
 Visit the Chocolatey site to download the most recent version.
 `@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
-3. After past press enter and wait for the software to download. If you are having trouble please refer to the choco site. 
+3. After paste press enter and wait for the software to download. If you are having trouble please refer to the choco site. 
 
-Now we can install Git! And all kinds of other software(aka packages) without having to go to different sites everytime you need to downlaod the latest version. It is all possible with a simple command like `choco install nameofsoftware` just look them up [here.](https://chocolatey.org/packages)
+Now we can install Git! And all kinds of other software (aka packages) without having to go to different sites everytime you need to downlaod the latest version. It is all possible with a simple command like `choco install nameofsoftware` just look them up [here.](https://chocolatey.org/packages)
 
 To install Git with the CLI enter `choco install git.install -y`. The -y is just a short command(the dash is also refered to as a flag) or flag to notify the software that yes you agree to terms, conditions, and all other requirements. You can choose to leave the -y flag out but you will still need to confirm requirements eventually to proceed with the download.
 

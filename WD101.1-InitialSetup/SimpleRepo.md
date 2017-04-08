@@ -1,6 +1,6 @@
 # Simple Repo
 
-*For the sake of clarity, whenever I say repo(short for repository) or directory it just means a folder. Also, I am assuming you already have a github account and if not go create one for free!*
+*For the sake of clarity, whenever I say repo (short for repository) or directory it just means a folder. Also, I am assuming you already have a github account and if not go create one for free!*
 
 In this section we are going to:
 1. Make a directory on your desktop (named `firstRepo`) and create an .html (`firstGit.html`) file with the following code.
@@ -135,6 +135,7 @@ Ok let's make some magic!
 
 We are good to go!. You now have the power to collaborate with anyone from anywhere and make something revolutionary :) It is a very common practice to make an .md file that will hold valuable information for the team and world-at-large. 
 
-Next, go build something!
+**Next, go build something!**
+
 ---
 [NEXT: Your First Website](../WD101.3-YourFirstWebsite)

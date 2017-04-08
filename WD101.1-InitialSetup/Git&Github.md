@@ -1,6 +1,6 @@
 # Git and Github
 
-The most important part of this project will be to get you started with a version control software/system (VCS)--in this case Git--and a centralized version control system (CVCS) on a server--in this case Github. I have decided to tackle this monster first because not only will it be a great complimentary tool for this and many other projects but essential to your journey as a software developer. Unfortunately, because this will be a "learn as you go" type-of lesson and we want to cover as much ground as possible, you will need to study Git on your own for a more in-depth understanding of the system. If you don't already know Git we will do a brief and basic overview below. If you do, feel free to go [here](../InstallingWindows&Mac). 
+The most important part of this project will be to get you started with a version control software/system (VCS)--in this case Git--and a centralized version control system (CVCS) on a server--in this case Github. I have decided to tackle this monster first because not only will it be a great complimentary tool for this and many other projects but essential to your journey as a software developer. Unfortunately, because this will be a "learn as you go" type-of lesson and we want to cover as much ground as possible, you will need to study Git on your own for a more in-depth understanding of the system. If you don't already know Git we will do a brief and basic overview below. If you do, feel free to go [here](./InstallingWindows&Mac). 
 
 #### Git
 What is a version control system and why does it exist? 
@@ -16,7 +16,7 @@ A VCS allows you to:
 This is the basic structure on your computer.
 ![alt text][gitImg1]
 
-Git on its own is a very powerful tool and may seem confusing at first but trust me it will click. While Git allows you to make, track, and compare changes to your project(s)/repo(s) (files, folders, etc...) it does not --by itself-- provide an simple way for you to collaborate with co-workers, friends or the world at large. And that it where Github comes in--it serves as a hub to hold the master copy of your project. Git deals primarily with the local repo (the project on your local computer) and github deals with "housing"/"serving" a master repo where anyone can collaborate. *Don't get it? Don't worry. You can either keep going and pick it up as we go or do some side reasearch on the topic.*
+Git on its own is a very powerful tool and may seem confusing at first but trust me it will click. While Git allows you to make, track, and compare changes to your project(s)/repo(s) (files, folders, etc...) it does not --by itself-- provide an simple way for you to collaborate with co-workers, friends or the world at large. And that it where Github comes in--it serves as a hub to hold the master copy of your project. Git deals primarily with the local repo (the project on your local computer) and github deals with "housing"/"serving" a master repo where anyone can collaborate. *Don't get it? Don't worry. You can either keep going and pick it up as we go or do some side reasearch on the topic. I am giving you a very shallow explination to give you the gist of what Git & Github do.*
 
 #### Github
 What is a centralized version control system and why does it exist?
