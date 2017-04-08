@@ -10,8 +10,9 @@ To get started with Git we will need to download some software and we will do it
 So lets begin :)
 
 ### Windows
-Open the default CLI as an administrator--Windows calls it Command Prompt. 
-Make sure you right click and **run as administrator**.
+Open the default CLI as an administrator--Windows calls it "Administrator: Command Prompt."
+Make sure you right click the cmd icon and select **run as administrator**.
+
 \**Your current path does NOT have to look exactly like the image below C:WINDOWS\system32 it could be C:WHATEVER\YOU\WANT*
 
 ![alt text](https://cldup.com/mqr22_MuZm.PNG)
@@ -62,7 +63,7 @@ Open the default CLI called Terminal.
 ![alt text](https://cldup.com/kuQOnpphqe.png)
 
 Quick commands that you may find helpful:
- - Clear the screen
+ - Clear the screen.
     ```
     ~ 🚀  bruest > clear
     ```
@@ -77,10 +78,16 @@ Quick commands that you may find helpful:
 - Move back. I am currently at `/Users/Bruest/Desktop/newFolder` but if I enter `cd ..` or  `cd ../`...
     ```
     newFolder 🚀  bruest > cd ..\
-    **I will get moved back, out of newFolder**
+    //I will get moved back, out of newFolder
     Desktop 🚀  bruest >
     ```
- - To move into any specific file quickly, you can always enter `cd ` (with a white space after it) and then drag and drop whatever file you want into the CLI. This will be handy when you have to deal with a long path or file/folder name(s) that have a space like `C:\Users\Bryant Ruelas`.
+- To move into any specific file quickly, you can always enter `cd ` (with a white space after it) and then drag and drop whatever file you want into the CLI. This will be handy when you have to deal with a long path or file/folder name(s) that have a space like `C:\Users\Bryant Ruelas`.
+
+- Display current path of your location.
+    ```
+    Desktop 🚀  bruest > pwd
+    //Returns: /Users/yourUserNameHere/Desktop
+    ```
 
 A package manager (PM) is an awesome tool to download and manage software with ease. Homebrew is the most popular PM for Mac as of the creation of this lesson so we will download Homebrew. 
 
@@ -102,5 +109,5 @@ To make sure it worked enter `git --version` and you should see the following(pr
 ![alt text](https://cldup.com/OCjbbRcif0.png)
 
 ---
-[Next: Making a Repository](./makingARepo/)
+[Next: Making a Repository](./makingARepo/SimpleRepo.md)
 

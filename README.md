@@ -23,9 +23,10 @@ or confusing, I encourage you to keep going.
 
 #### In this course:
 
-- Git & Github
-  - Installing Software: Windows/Mac.
-  - Making a repository.
+- WD101.1-InitialSetup
+  - Quick Overview: Git and Github.
+  - Installing Software: Windows/Mac
+ 	- Simple Repository
 - Creating a Website
   - HTML.
   - CSS.
