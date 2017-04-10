@@ -137,11 +137,12 @@ Ok let's make some magic!
     git remote add origin https://github.com/yourUserName/firstProject.git
     git push -u origin master
     ```
+`git push` uploads the copy on your machine to the server.
     
 4. Go back to your Github repository page at https://github.com/yourUserName/firstProject. Your project should now be on Github the cetralized version control system (CVCS).
 
-5. Remember, whenever changes are made to the CVCS those changes will not magically apear on your system (unless you made them yourself and then `git push` them locally)therefore, whenever you are going to make local changes remember to do a `git pull` so that you edit the most up-to-date version of the CVCS repo.
-    - Suppose someone in Japan made changes to your CVCS repo. Your CVCS repo is now updated. And lets say you made changes without first downloading them via `git pull`, then you `git push` those changes then you will essentially override the changes the person in Japan made and your version will live in the CVCS and their changes will basically be non-existent. 
+5. Remember, whenever changes are made to the CVCS those changes will not magically apear on your system (unless you made them yourself and then `git push` them locally). Before you make any local changes remember to do a `git pull`(pulls from the server) so that you edit the most up-to-date version of the CVCS repo.
+    - Suppose someone in Japan made changes to your CVCS repo. Your CVCS repo is now updated. And lets say you made changes without first downloading them via `git pull`, but instead you `git push` those changes. Your upload/push will essentially override the changes the person in Japan made and your version will live in the CVCS and their changes will basically be non-existent since you never pulled them unto your computer in the fist place. NOT WHAT YOU WANT TO BE DOING--ALWAYS PULL.
 
 We are good to go!. You now have the power to collaborate with anyone from anywhere and make something revolutionary :) It is a very common practice to make an .md file that will hold valuable information for the team and world-at-large. *This will be the extent of our intro with Git and Github. If you need extra knowledge, please go watch a video. If you're doing ok but have lots of questions you can always keep learning as you go.*
 
